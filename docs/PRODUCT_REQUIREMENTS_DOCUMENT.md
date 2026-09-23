@@ -82,19 +82,7 @@ Frente a formaciones genéricas, Dúo Coral ofrece:
 
 ---
 
-## 5. Especificaciones Técnicas y Operativas
-
-| Parámetro | Detalle Técnico |
-|---|---|
-| **Tecnologías Web** | HTML5 semántico, Tailwind CSS, Vanilla JS responsivo |
-| **Tiempo de Montaje** | 40 - 45 minutos (completamente autónomo sin apoyo técnico del hotel) |
-| **Cobertura Territorial** | Tenerife (Santa Cruz, Costa Adeje, Arona, Guía de Isora, Puerto de la Cruz) y desplazamientos interinsulares en Canarias |
-| **Requerimiento en Hotel** | Toma de corriente estándar 220V Schuko en la zona de actuación |
-| **Tiempo de Respuesta B2B** | Máximo 24 horas laborables para presupuestos y fechas de temporada |
-
----
-
-## 6. Próximos Pasos y Roadmap
+## 5. Próximos Pasos y Roadmap
 1. Exportación de artes finales en alta resolución (PDF vectorial para imprenta con marcas de corte y sangre para las tarjetas de visita).
 2. Generación del Dossier Comercial Interactivo en formato PDF descargable.
 3. Despliegue de los audios reales en el reproductor de la web.
